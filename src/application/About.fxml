@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity"
+	minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
+	prefWidth="600.0" style="-fx-background-color: #c0e8e4;" xmlns="http://javafx.com/javafx/8.0.60"
+	xmlns:fx="http://javafx.com/fxml/1">
+	<children>
+		<Label alignment="CENTER" layoutX="10.0" layoutY="14.0"
+			prefHeight="50.0" prefWidth="580.0" text="SANGEET:MUSIC PLAYER"
+			textAlignment="CENTER" textFill="#112ced" textOverrun="WORD_ELLIPSIS"
+			underline="true" wrapText="true">
+			<font>
+				<Font name="System Bold Italic" size="30.0" />
+			</font>
+		</Label>
+		<Label alignment="TOP_LEFT" layoutX="10.0" layoutY="64.0"
+			prefHeight="27.0" prefWidth="580.0"
+			text="Sangeet:Music Player is the result of hardwork and efforts by four personel.">
+			<font>
+				<Font name="System Italic" size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="14.0" layoutY="118.0" prefHeight="30.0"
+			prefWidth="200.0" text="Contributors:" textFill="#d10f0f">
+			<font>
+				<Font name="System Bold Italic" size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="157.0" prefHeight="30.0"
+			prefWidth="500.0"
+			text="Ajay Dhami         (ajay08dhami18@gmail.com)      - Coding  ">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="194.0" prefHeight="30.0"
+			prefWidth="500.0" text="Anima Acharya    (anima.acharya5@gmail.com)     - GUI">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="230.0" prefHeight="30.0"
+			prefWidth="500.0" text="Ashesh Acharya   (ashesh1234@gmail.com)           - GUI">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="268.0" prefHeight="30.0"
+			prefWidth="500.0"
+			text="Manoj Bhatt         (mbhatt997@gmail.com)            - Coding">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+	</children>
+</AnchorPane>
